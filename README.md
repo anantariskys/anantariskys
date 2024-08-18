@@ -2,10 +2,15 @@
 
 Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. Feel free to explore my projects and connect with me.
 
-<div id="badges"><a href="https://www.linkedin.com/in/anantariskys">    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/anantariskys">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/riskykun_/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://ananta-risky-susanto.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
@@ -36,7 +41,6 @@ Here are some of the technologies I work with:
 ![Axios](https://img.shields.io/badge/-Axios-5A29E3?style=flat-square&logo=axios&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-E14D43?style=flat-square&logo=laravel&logoColor=white)
 
-
 ### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -47,6 +51,8 @@ Here are some of the technologies I work with:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 ![Laragon](https://img.shields.io/badge/-Laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## 📊 GitHub Activity
 
@@ -61,7 +67,6 @@ Here are some of the technologies I work with:
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anantariskys&theme=dark)](https://github.com/anantariskys)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anantariskys&theme=dark)](https://github.com/anantariskys)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anantariskys&theme=dark)](https://github.com/anantariskys)
-
 
 ## 🤝 Let's Connect
 
