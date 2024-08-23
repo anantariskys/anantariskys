@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ananta Risky S
+# Hi there 👋 I'm Ananta Risky Su
 
 Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. Feel free to explore my projects and connect with me.
 
