@@ -42,6 +42,7 @@ Here are some of the technologies I work with:
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E3?style=flat-square&logo=axios&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-E14D43?style=flat-square&logo=laravel&logoColor=white)
+![Remix](https://img.shields.io/badge/-Remix-121212?style=flat-square&logo=remix&logoColor=white)
 
 ### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
