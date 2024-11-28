@@ -60,7 +60,6 @@ Here are some of the technologies I work with:
 ## 📊 GitHub Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anantariskys&theme=dark)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantariskys&theme=dark)
 
 ## 📈 GitHub Stats
