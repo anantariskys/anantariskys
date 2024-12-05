@@ -63,6 +63,11 @@ Here are some of the technologies I work with:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantariskys&theme=dark)
 
 ## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anantariskys&show_icons=true&count_private=true&hide=contribs&include_all_commits=true&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=anantariskys&theme=radical&rank=SECRET,SSS,SS)
+
+
+
 
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anantariskys&theme=dark)](https://github.com/anantariskys)
