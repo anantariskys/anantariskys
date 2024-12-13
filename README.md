@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ananta Risky Susanto
 
-Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. Feel free to explore my projects and connect with me.
+Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. Feel free to explore my projects and connect with me:).
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/anantariskys">
