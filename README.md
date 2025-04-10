@@ -78,7 +78,7 @@ Welcome to my GitHub profile — feel free to explore my projects and connect wi
 ---
 
 ## 🏆 GitHub Trophies
-[![](https://visitcount.itsvg.in/api?id=anantariskys&icon=0&color=2)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=anantariskys&theme=react&no-frame=true&no-bg=false&margin-w=4)
 ---
 
 ## ✍️ Random Dev Quote
