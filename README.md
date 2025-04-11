@@ -16,9 +16,11 @@ Welcome to my GitHub profile — feel free to explore my projects and connect wi
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 ## ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,7 +44,6 @@ Welcome to my GitHub profile — feel free to explore my projects and connect wi
 ![Redux](https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3A10E5?style=for-the-badge&logo=zod&logoColor=white)
 
-
 ## 🎨 UI Frameworks & Styling
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -50,6 +51,7 @@ Welcome to my GitHub profile — feel free to explore my projects and connect wi
 ![Chakra UI](https://img.shields.io/badge/Chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-%23000.svg?style=for-the-badge&logo=framer&logoColor=white)
 
 ## 💾 Databases & ORMs
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,6 +61,7 @@ Welcome to my GitHub profile — feel free to explore my projects and connect wi
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
 ## 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
