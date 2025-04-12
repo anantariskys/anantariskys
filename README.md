@@ -71,7 +71,7 @@ Welcome to my GitHub profile — feel free to explore my projects and connect wi
 # 📊 GitHub Stats
 ![](https://github-readme-stats-nu-sooty-35.vercel.app/api?username=anantariskys&count_private=true&theme=react)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anantariskys&theme=react&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anantariskys&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-nu-sooty-35.vercel.app/api/top-langs/?username=anantariskys&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
