@@ -80,10 +80,6 @@ Welcome to my GitHub profile — feel free to explore my projects and connect wi
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anantariskys&theme=react&no-frame=true&no-bg=false&margin-w=4)
----
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
