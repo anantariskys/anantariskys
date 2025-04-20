@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi there! I'm **Ananta Risky**, a passionate developer who loves building cool stuff and continuously exploring new technologies.  
+Hi there! I'm **Ananta Risky Susanto**, a passionate developer who loves building cool stuff and continuously exploring new technologies.  
 Welcome to my GitHub profile — feel free to explore my projects and connect with me!
 
 ---
